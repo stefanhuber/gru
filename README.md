@@ -2,7 +2,7 @@
 
 ## Inhaltsübersicht
 
-* Übungsserie 1 ([Link](https://github.com/stefanhuber/gru/UE1.md))
+* Übungsserie 1 ([Link](https://github.com/stefanhuber/gru/blob/master/UE1.md))
 
 ## Lizenzierung
 ![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons Lizenzvertrag")
