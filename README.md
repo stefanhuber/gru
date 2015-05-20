@@ -1,16 +1,16 @@
 # Grundlagen Programmierung
 
+```c
+#include <stdio.h>
 
-    #include <stdio.h>
-
-    int main()
-    {
-       /* my first program in C */
-       printf("Hello, World! \n");
-       
-       return 0;
-    }
-
+int main()
+{
+   /* my first program in C */
+   printf("Hello, World! \n");
+   
+   return 0;
+}
+```
 
 ## Inhaltsübersicht
 
